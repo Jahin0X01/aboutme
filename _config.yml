@@ -1,17 +1,17 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: A portfolio about Jahin and his blog
+description: A portfolio about Jahin and his blog
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Ahmed Mosaad Jahin
 user_description: test chaption
-user_title: Soc Analyst
+user_title: Cyber Security Analyst , Degital Forensics , Incident Response
 email: ahmed.mosaad.jahin@gmail.com
 twitter_username: jahin0x01
 github_username:  jahin0x01
-gplus_username:  jahin0x01
+#gplus_username:  jahin0x01
 
 # Google-analytics
 google-analytics:
